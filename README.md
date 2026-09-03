@@ -624,3 +624,541 @@ The FPR will be saved in the `data/defense_output/defense_fp.csv` file.
 <p class="text-center text-xs mt-5">ตัวเลขเวลาแฝงคือมูลค่าการผลิตโดยทั่วไปต่อระดับ คําขอจะจ่ายเฉพาะระดับที่ถึงเท่านั้น</p>
 <!-- /wp:paragraph -->
 
+# ในการปรเมินขออนุมัติและการอนุมัติทุกอย่าง
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://helpx.adobe.com/content/dam/help/mnemonics/acrobat_dc_app_RGB.svg" alt="" title="Adobe Acrobat"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Adobe Acrobat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"className":"page-title"} -->
+<h1 class="wp-block-heading page-title">Generative AI technical requirements</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Last updated on&nbsp;Sep 1, 2026</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Learn about the generative AI technical requirements to ensure that you adhere to the file requirements, usage limitations, and login requirements for your Acrobat app.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://helpx.adobe.com/content/dam/help/mnemonics/acrobat_dc_app_RGB.svg" alt="Adobe Acrobat deeplink"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Edit PDFs with AI chat</strong><br />Replace, rewrite, restructure, redact, format, or highlight text — just by chatting with AI Assistant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://helpx.adobe.com/acrobat/desktop/use-acrobat-ai/get-started-with-generative-ai/ai-tech-requirements.linkfree.html#" class="spectrum-Link spectrum-Link--secondary dexter-Button--sizeS " target="_blank" rel="noreferrer noopener">Browse Acrobat AI prompts</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://helpx.adobe.com/acrobat/desktop/use-acrobat-ai/get-started-with-generative-ai/ai-tech-requirements.linkfree.html#" class="spectrum-Link spectrum-Link--primary dexter-Button--sizeS " target="_blank" rel="noreferrer noopener">Browse Acrobat AI prompts</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Supported file languages</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Acrobat apps on desktop and web</strong>: Generative AI features are supported only for files in English, French, German, Spanish, Italian, Brazilian Portuguese, Japanese, Korean, Danish, Norwegian, Finnish, Swedish, and Dutch.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>AI Assistant for webpages</strong>: It is supported only for English-language webpages.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Supported languages for GenAI features</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>AI Assistant&nbsp;Q&amp;A&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Generative summary&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PDF Spaces&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Generate presentation</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Generate&nbsp;podcast&nbsp;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Danish</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>—</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dutch</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>—</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>English</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Finnish</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>—</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>French</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>German</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Italian</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Japanese</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Korean</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Norwegian</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>—</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Portuguese*</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Spanish</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Swedish</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>—</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>* Brazilian Portuguese only</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">File requirements</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>The file size must be less than 100 MB.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The file can have up to 600 pages.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The PDF shouldn’t have password protection or usage restrictions.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The file shouldn’t be a PDF Portfolio.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Note</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The server settings determine the limits on PDF file size and page count, and will automatically adjust if the server settings change.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Usage limitations</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Prompts or questions must be under 500 characters.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Text selections in AI Assistant must be under 8000 characters. The selected text must be on a single page and cannot span multiple pages.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>AI Assistant does not support images or complex vector graphics.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>AI Assistant for webpages appears only on English-language webpages that have well-structured, readable long-form content. The AI Assistant button may not appear on certain pages, even when the page appears to have long content.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Account and login requirements</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>You must be online.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Generative AI features must be enabled.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You must be signed in with a supported Adobe ID.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">App settings</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>The language of Adobe Acrobat, Acrobat Reader, and Adobe Scan applications must be set to one of the supported languages: English, French, German, Spanish, Italian, Brazilian Portuguese, or Japanese.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>New experience must be enabled.<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>On Windows, select Menu  > Enable new Acrobat.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>On macOS, select View > Enable new Acrobat.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Supported devices and browsers</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The following versions support all GenAI features:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>iOS</strong>: Version 26.02.50and later </li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Android</strong>: Version 26.2.0.43379 and later </li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Desktop</strong>: 25.001.21288 and later  </li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Acrobat on the web</strong>: Refer to the <a href="https://helpx.adobe.com/acrobat/desktop/use-acrobat-ai/get-started-with-generative-ai/ai-tech-requirements.linkfree.html#" target="_blank" rel="noreferrer noopener">Technical requirements for Acrobat on the web</a> </li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Note</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Support for GenAI features on older versions will be discontinued on June 1, 2026.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Additional resources</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://helpx.adobe.com/acrobat/desktop/use-acrobat-ai/get-started-with-generative-ai/ai-tech-requirements.linkfree.html#" target="_blank" rel="noreferrer noopener">Administer Acrobat AI Assistant for Enterprises</a>  </li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://helpx.adobe.com/acrobat/desktop/use-acrobat-ai/get-started-with-generative-ai/ai-tech-requirements.linkfree.html#" target="_blank" rel="noreferrer noopener">Get started with generative AI features</a>  </li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>For feedback or questions, please visit the&nbsp;<a href="https://helpx.adobe.com/acrobat/desktop/use-acrobat-ai/get-started-with-generative-ai/ai-tech-requirements.linkfree.html#" target="_blank" rel="noreferrer noopener">Adobe Help Center</a>.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"copyright"} -->
+<p class="copyright">Copyright © 2026 Adobe. All rights reserved.</p>
+<!-- /wp:paragraph -->
