@@ -140,3 +140,151 @@ python evaluator/evaluate_safe.py
 
 This will find all output folders in `data/defense_output` that contain the keyword `-safe` and evaluate the false positive rate (FPR).
 The FPR will be saved in the `data/defense_output/defense_fp.csv` file.
+<!-- wp:heading {"className":"text-3xl sm:text-4xl leading-tight mb-3"} -->
+<h2 class="wp-block-heading text-3xl sm:text-4xl leading-tight mb-3">สี่ขั้นตอน</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"text-sm sm:text-base max-w-2xl mx-auto"} -->
+<p class="text-sm sm:text-base max-w-2xl mx-auto">แต่ละขั้นตอนจะป้อนอาหารถัดไป Discovery จะบอกคุณว่าต้องประเมินอะไร การประเมินจะบอกคุณว่าต้องบังคับใช้อะไร และการบังคับใช้จะทําให้เกิดความต้องการในการกํากับดูแลหลักฐาน</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"text-xl sm:text-2xl"} -->
+<h3 class="wp-block-heading text-xl sm:text-2xl">ค้นพบ</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>สร้างสินค้าคงคลัง</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"text-sm sm:text-[15px] leading-relaxed mb-3"} -->
+<p class="text-sm sm:text-[15px] leading-relaxed mb-3">แอป GitHub สแกนพื้นที่เก็บข้อมูลสําหรับเฟรมเวิร์กเอเจนต์ ตัวเชื่อมต่อคลาวด์ดึงเอเจนต์จาก AWS Bedrock, Azure AI, Vertex AI, OpenAI, Anthropic, Slack, Agentforce และ Copilot Studio CLI ลงทะเบียนแล็ปท็อปของนักพัฒนาและสินค้าคงคลังเซิร์ฟเวอร์ MCP ในพื้นที่และความลับ ทุกอย่างลงจอดในแผนที่สดเดียวพร้อมการตรวจจับการดริฟท์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"text-xs font-semibold mb-3"} -->
+<p class="text-xs font-semibold mb-3">ผลลัพธ์: สินค้าคงคลัง AI แบบสดและ AI BOM ที่ส่งออกได้<a class="text-xs font-bold hover:opacity-70 transition-opacity" href="https://fullcourtdefense.ai/ai-discovery">สํารวจ&nbsp;ค้นพบ&nbsp;→</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"text-xl sm:text-2xl"} -->
+<h3 class="wp-block-heading text-xl sm:text-2xl">ประเมิน</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>โจมตีสิ่งที่คุณพบ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"text-sm sm:text-[15px] leading-relaxed mb-3"} -->
+<p class="text-sm sm:text-[15px] leading-relaxed mb-3">การสแกนทีมสีแดงอัตโนมัติโจมตีแต่ละเอเจนต์ด้วยการโจมตีที่ได้รับการดูแลจัดการและปรับเปลี่ยนได้หลายร้อยครั้ง — การฉีดทันที การแหกคุก การดึงข้อมูล วิศวกรรมสังคมแบบหลายเทิร์น ท่าทางสแกนการแข็งตัวของจุดสิ้นสุดเกรด ทุกความล้มเหลวมาพร้อมกับใบรับรองผลการเรียนฉบับเต็ม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"text-xs font-semibold mb-3"} -->
+<p class="text-xs font-semibold mb-3">ผลลัพธ์: คะแนนความปลอดภัย การถอดเสียงความล้มเหลว และพรอมต์ระบบที่แข็งตัว<a class="text-xs font-bold hover:opacity-70 transition-opacity" href="https://fullcourtdefense.ai/red-teaming">สํารวจ&nbsp;ประเมิน&nbsp;→</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"text-xl sm:text-2xl"} -->
+<h3 class="wp-block-heading text-xl sm:text-2xl">บังคับใช้</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ปกป้องการจราจรการผลิต</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"text-sm sm:text-[15px] leading-relaxed mb-3"} -->
+<p class="text-sm sm:text-[15px] leading-relaxed mb-3">Shield ตรวจสอบทุกข้อความเข้าและออกจากตัวแทนของคุณผ่านการจับคู่รูปแบบ — ไปป์ไลน์หลายระดับ ตัวแยกประเภท ML ภายในองค์กร ความคล้ายคลึงทางความหมาย และผู้ตัดสิน AI สําหรับชนกลุ่มน้อยที่ไม่แน่นอน การเรียกเครื่องมือประตูนโยบายการดําเนินการโดยได้รับอนุมัติจากมนุษย์สําหรับการกระทําที่เป็นอันตราย เริ่มต้นในโหมดจอภาพ สลับไปบล็อกเมื่อตัวเลขโน้มน้าวใจคุณ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"text-xs font-semibold mb-3"} -->
+<p class="text-xs font-semibold mb-3">ผลลัพธ์: การโจมตีถูกบล็อกแบบอินไลน์ บันทึกคําตัดสินพร้อมระดับการตัดสินใจสําหรับทุกเหตุการณ์<a class="text-xs font-bold hover:opacity-70 transition-opacity" href="https://fullcourtdefense.ai/runtime-shield">สํารวจ&nbsp;บังคับใช้&nbsp;→</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"text-xl sm:text-2xl"} -->
+<h3 class="wp-block-heading text-xl sm:text-2xl">ปกครอง</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>พิสูจน์ทั้งหมดเลย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"text-sm sm:text-[15px] leading-relaxed mb-3"} -->
+<p class="text-sm sm:text-[15px] leading-relaxed mb-3">ประตูปล่อยจะบล็อกการใช้งานเมื่อคะแนนการสแกนลดลง การสแกนและการดําเนินการรันไทม์ทุกครั้งสามารถมีใบเสร็จหลักฐานที่ลงนามได้ คะแนนความเสี่ยงของแบบจําลอง ชุดการปฏิบัติตามข้อกําหนด และการส่งออก SIEM จะให้สิ่งประดิษฐ์ของผู้ตรวจสอบบัญชีของคุณแทนการรับรอง</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"text-xs font-semibold mb-3"} -->
+<p class="text-xs font-semibold mb-3">ผลลัพธ์: หลักฐานที่พร้อมสําหรับการตรวจสอบซึ่งแมปกับความคาดหวังของ EU AI Act, NIS2, DORA และ SOC 2<a class="text-xs font-bold hover:opacity-70 transition-opacity" href="https://fullcourtdefense.ai/ai-governance">สํารวจ&nbsp;ปกครอง&nbsp;→</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"text-3xl sm:text-4xl leading-tight mb-3"} -->
+<h2 class="wp-block-heading text-3xl sm:text-4xl leading-tight mb-3">ภายในท่อส่งโล่</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"text-sm sm:text-base max-w-2xl mx-auto"} -->
+<p class="text-sm sm:text-base max-w-2xl mx-auto">เช็คราคาถูกก่อน เช็คแพงสุดท้าย ออกก่อนเวลาทันทีที่คําตัดสินมั่นใจ การออกแบบนั้นคือเหตุผลว่าทําไมการป้องกันจึงไม่ทําให้คุณต้องเสียเวลาแฝง</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>เทียร์&nbsp;1~1ms</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"text-base font-bold mb-1.5"} -->
+<h3 class="wp-block-heading text-base font-bold mb-1.5">รูปแบบ</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"text-xs leading-relaxed"} -->
+<p class="text-xs leading-relaxed">การตรวจสอบ Regex และโครงสร้างเหนือข้อความที่ทําให้เป็นมาตรฐาน การโจมตีอย่างโจ่งแจ้งหยุดอยู่แค่นี้</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>เทียร์&nbsp;2~15ม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"text-base font-bold mb-1.5"} -->
+<h3 class="wp-block-heading text-base font-bold mb-1.5">ตัวแยกประเภท ML</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"text-xs leading-relaxed"} -->
+<p class="text-xs leading-relaxed">หม้อแปลงหลายภาษาภายในองค์กรของเราพร้อมเครื่องตรวจจับเฉพาะทาง การจราจรส่วนใหญ่ออกจากที่นี่</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>เทียร์&nbsp;3~50ม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"text-base font-bold mb-1.5"} -->
+<h3 class="wp-block-heading text-base font-bold mb-1.5">ความหมาย</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"text-xs leading-relaxed"} -->
+<p class="text-xs leading-relaxed">ฝังความคล้ายคลึงกับเวกเตอร์การโจมตีที่รู้จักหลายพันตัว และเติบโตโดยอัตโนมัติ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>เทียร์&nbsp;4~200-500ม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"text-base font-bold mb-1.5"} -->
+<h3 class="wp-block-heading text-base font-bold mb-1.5">ผู้พิพากษาเอไอ</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"text-xs leading-relaxed"} -->
+<p class="text-xs leading-relaxed">คําตัดสินของ LLM ที่มีโครงสร้างสําหรับชนกลุ่มน้อยที่ไม่แน่นอน พร้อมคําแนะนําจากทุกระดับด้านล่าง</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"text-center text-xs mt-5"} -->
+<p class="text-center text-xs mt-5">ตัวเลขเวลาแฝงคือมูลค่าการผลิตโดยทั่วไปต่อระดับ คําขอจะจ่ายเฉพาะระดับที่ถึงเท่านั้น</p>
+<!-- /wp:paragraph -->
+
