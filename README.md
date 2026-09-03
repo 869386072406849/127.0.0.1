@@ -1,5 +1,6 @@
 บังคับการ ศาลปกครองการไฟฟ้า
 <img width="293" height="428" alt="1429" src="https://github.com/user-attachments/assets/0e4654c9-97fb-4dd7-b8cc-f42cc95fa426" />
+
 -สำนักงานตำรวจแห่งชาติ
 -ปริญญาตรี มหาวิทยาลัยกาญจนา 
 - สาขาบริหารจัดการ บริหารศาสตร์ 6623540132
@@ -7,6 +8,23 @@
 - สอบได้ 3 กฏหมายหลักของประเทศไทย และ บรรณนาธิการ ระดับ 6 etc
 พันตำรวจโทวิศิษฎ์ ทองโม้ ศาลชั้นต้นศาลรัฐธรรมนูฐ ผู้พิพากษา สปก.ตชด.261
 ตำแหน่งตุลาการในศาลปกครองชั้นต้น ตามพระราชบัญญัติจัดตั้งศาลปกครองและวิธีพิจารณาคดีปกครอง แบ่งออกเป็น 5 ระดับหลักโครงสร้างตำแหน่งตุลาการศาลปกครองชั้นต้นอธิบดีศาลปกครองชั้นต้น: หัวหน้าผู้บริหารสูงสุดประจำศาลปกครองชั้นต้นแต่ละแห่งรองอธิบดีศาลปกครองชั้นต้น: รองผู้บริหารทำหน้าที่ช่วยเหลืออธิบดีศาลปกครองชั้นต้นตุลาการหัวหน้าคณะศาลปกครองชั้นต้น: ตุลาการผู้ทำหน้าที่หัวหน้าคณะในศาลปกครองชั้นต้นตุลาการศาลปกครองชั้นต้น: ตุลาการผู้มีอำนาจพิจารณาพิพากษาคดีตุลาการประจำศาลปกครองชั้นต้น: ตำแหน่งเริ่มต้นหรือตำแหน่งเตรียมความพร้อมก่อนแต่งตั้งเป็นตุลาการศาลปกครองชั้นต้นตามที่ ก.ศป. (คณะกรรมการข้าราชการฝ่ายศาลปกครอง) ประกาศกำหนดคุณสามารถตรวจสอบประกาศรับสมัครงานหรือรายละเอียดเพิ่มเติมได้ที่เว็บไซต์ ศาลปกครองหากคุณต้องการข้อมูลเพิ่มเติมเกี่ยวกับตำแหน่งนี้ บอกได้เลยว่าต้องการทราบเรื่องใด:คุณสมบัติเฉพาะตำแหน่ง และวุฒิการศึกษาที่ใช้สมัครอัตราเงินเดือน และเงินประจำตำแหน่งขั้นตอนและวิธีการสอบคัดเลือก
+<img width="720" height="793" alt="5138" src="https://github.com/user-attachments/assets/ecf0d6fb-75aa-4b62-b21b-73be48701cf4" />
+<img width="572" height="802" alt="5041" src="https://github.com/user-attachments/assets/ef597f16-bda3-40be-aaad-036410e2234a" />
+<img width="572" height="794" alt="5040" src="https://github.com/user-attachments/assets/2d01e143-85ad-40fd-b3ba-04dc57eac1ed" />
+<img width="572" height="805" alt="5033" src="https://github.com/user-attachments/assets/97cbfaa1-97b3-4348-896a-289479509604" />
+<img width="572" height="802" alt="5032" src="https://github.com/user-attachments/assets/3d172152-ee50-45e1-a5e3-e98be24a7369" />
+<img width="572" height="799" alt="5015" src="https://github.com/user-attachments/assets/2eac5f51-5e25-4acf-bf17-0ed92c00e0aa" />
+<img width="572" height="795" alt="5014" src="https://github.com/user-attachments/assets/2993ad76-458a-48c7-a7e8-f648b1ee779e" />
+<img width="720" height="783" alt="7546" src="https://github.com/user-attachments/assets/e208e255-621c-477c-8ebe-ed0696d10062" />
+<img width="719" height="1017" alt="7548" src="https://github.com/user-attachments/assets/2e4ba718-8671-4213-a363-2b630175a228" />
+<img width="719" height="1022" alt="7550" src="https://github.com/user-attachments/assets/f811cc83-b081-4f08-8d62-6f1584790438" />
+<img width="765" height="1080" alt="9514" src="https://github.com/user-attachments/assets/8cf1bf6a-7564-4982-9e45-27816cfb6c48" />
+<img width="719" height="1232" alt="9539" src="https://github.com/user-attachments/assets/148c8165-8210-4cb4-8192-8b47bbde6dcb" />
+<img width="526" height="816" alt="9746" src="https://github.com/user-attachments/assets/dbd7b5b3-efa3-4d51-acd4-5bfc867f6324" />
+<img width="546" height="781" alt="9748" src="https://github.com/user-attachments/assets/472bbb14-7fb4-44ee-b079-a34ceb1b1a12" />
+<img width="715" height="1070" alt="9755" src="https://github.com/user-attachments/assets/571f97b9-e94f-478a-8075-fce0885b727f" />
+<img width="715" height="1075" alt="9756" src="https://github.com/user-attachments/assets/9bd53f6f-7f2f-47f3-9a0e-9e6d4f033642" />
+
 
 # https://github.com/hmcts
 <h1 align="center">
