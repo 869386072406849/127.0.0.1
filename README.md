@@ -1,4 +1,212 @@
 
+<!-- wp:paragraph -->
+<p><a href="https://support.github.com/#start-of-content" class="p-3 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">ข้ามไปที่เนื้อหา</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="AG_JiRRQvbEXJYo8MOQY xeEx7NUeo5iCCVFC2vtL prc-Header-HeaderLink-NpVNI" href="https://support.github.com/">กิตฮับ&nbsp;การสนับสนุน</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"className":"yPxdDmShEOjsZW_k9hCR prc-Heading-Heading-MtWFE"} -->
+<h1 class="wp-block-heading yPxdDmShEOjsZW_k9hCR prc-Heading-Heading-MtWFE">สวัสดีค่ะ @869386072406849 ช่วยอะไรได้บ้างคะ?</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ฉันจะยกเลิกการสมัครได้อย่างไร?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"qIgZ_W28RGuZjJYWh2ND"} -->
+<p class="qIgZ_W28RGuZjJYWh2ND">ลิงค์ยอดนิยม:<a class="m1RXHb4oZllbnlL_325F prc-Link-Link-9ZwDx" href="https://support.github.com/ci-cd-devops">การกระทํา,</a><a class="m1RXHb4oZllbnlL_325F prc-Link-Link-9ZwDx" href="https://support.github.com/security">การรักษาความปลอดภัย,</a><a class="m1RXHb4oZllbnlL_325F prc-Link-Link-9ZwDx" href="https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github">การแจ้งเตือน,</a><a class="m1RXHb4oZllbnlL_325F prc-Link-Link-9ZwDx" href="https://support.github.com/enterprise/server-upgrade">เซิร์ฟเวอร์องค์กร,</a><a class="m1RXHb4oZllbnlL_325F prc-Link-Link-9ZwDx" href="https://docs.github.com/en/enterprise-cloud@latest/authentication/authenticating-with-saml-single-sign-on">แซม เอสเอสโอ</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"zGRp3zFNFuDK7wxRLkEw prc-Heading-Heading-MtWFE"} -->
+<h2 class="wp-block-heading zGRp3zFNFuDK7wxRLkEw prc-Heading-Heading-MtWFE">สิ่งจําเป็นสําหรับองค์กร</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>แหล่งข้อมูลสําคัญที่จะช่วยให้คุณใช้ประโยชน์สูงสุดจากบัญชี GitHub Enterprise ของคุณ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="Fv9k_oXq_6pC0eoNYKgm prc-Link-Link-9ZwDx" href="https://support.github.com/product-guides">คู่มือผลิตภัณฑ์คําแนะนําเพื่อเพิ่มความเร็วในการเดินทางขึ้นเครื่องของคุณ</a><a class="Fv9k_oXq_6pC0eoNYKgm prc-Link-Link-9ZwDx" href="https://support.github.com/success/services-catalog">แคตตาล็อกบริการทักษะที่องค์กรของคุณต้องการในการทํางานอย่างชาญฉลาดยิ่งขึ้น</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"zGRp3zFNFuDK7wxRLkEw prc-Heading-Heading-MtWFE"} -->
+<h2 class="wp-block-heading zGRp3zFNFuDK7wxRLkEw prc-Heading-Heading-MtWFE">สนับสนุนตามพื้นที่ผลิตภัณฑ์</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>สํารวจแหล่งข้อมูลที่ได้รับการดูแลจัดการของเราเพื่อค้นหาสิ่งที่คุณกําลังมองหา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="Fv9k_oXq_6pC0eoNYKgm prc-Link-Link-9ZwDx" href="https://support.github.com/get-started">เริ่มต้นยินดีต้อนรับสู่ GitHub! เริ่มต้นกับการเรียนรู้พื้นฐาน</a><a class="Fv9k_oXq_6pC0eoNYKgm prc-Link-Link-9ZwDx" href="https://support.github.com/ci-cd-devops">CI/CD และ DevOpsCI/CD ทําให้การสร้าง การทดสอบ และการปรับใช้ของคุณเป็นแบบอัตโนมัติ</a><a class="Fv9k_oXq_6pC0eoNYKgm prc-Link-Link-9ZwDx" href="https://support.github.com/community">ชุมชนเรียนรู้แนวทางปฏิบัติที่ดีที่สุดในการกลั่นกรองและการจัดตั้งชุมชน</a><a class="Fv9k_oXq_6pC0eoNYKgm prc-Link-Link-9ZwDx" href="https://support.github.com/security">ความปลอดภัยจัดส่งแอปพลิเคชันที่ปลอดภัยภายในโฟลว์ GitHub</a><a class="Fv9k_oXq_6pC0eoNYKgm prc-Link-Link-9ZwDx" href="https://support.github.com/collaborative-coding">การเข้ารหัสร่วมกันมีส่วนร่วมในโครงการได้อย่างรวดเร็วด้วยการตั้งค่าสภาพแวดล้อมอัตโนมัติ</a><a class="Fv9k_oXq_6pC0eoNYKgm prc-Link-Link-9ZwDx" href="https://support.github.com/developers">นักพัฒนาเรียนรู้เกี่ยวกับการใช้ GitHub API</a><a class="Fv9k_oXq_6pC0eoNYKgm prc-Link-Link-9ZwDx" href="https://support.github.com/enterprise-and-teams">องค์กรและทีมลดความซับซ้อนในการจัดการการเข้าถึงและการอนุญาตทั่วทั้งโครงการและทีมของคุณ</a><a class="Fv9k_oXq_6pC0eoNYKgm prc-Link-Link-9ZwDx" href="https://github.com/orgs/community/discussions">ผลตอบรับอย่าลังเลที่จะแบ่งปันความคิดเห็น อภิปรายหัวข้อ หรือถามคําถาม</a><a class="Fv9k_oXq_6pC0eoNYKgm prc-Link-Link-9ZwDx" href="https://support.github.com/project-management">การจัดการโครงการเก็บคําขอฟีเจอร์ ข้อบกพร่อง และจัดระเบียบเพิ่มเติมเกี่ยวกับปัญหา GitHub</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"ZJI8Zh3r1n9kyw8kyyrN prc-Heading-Heading-MtWFE"} -->
+<h2 class="wp-block-heading ZJI8Zh3r1n9kyw8kyyrN prc-Heading-Heading-MtWFE">บทความยอดนิยม</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"WNGJ1BzcZ9T8Ukuby0oz"} -->
+<h3 class="wp-block-heading WNGJ1BzcZ9T8Ukuby0oz">เกี่ยวกับคําขอดึง</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"WNGJ1BzcZ9T8Ukuby0oz"} -->
+<h3 class="wp-block-heading WNGJ1BzcZ9T8Ukuby0oz">เอกสารรับรองความถูกต้อง</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"WNGJ1BzcZ9T8Ukuby0oz"} -->
+<h3 class="wp-block-heading WNGJ1BzcZ9T8Ukuby0oz">การเพิ่มโค้ดที่โฮสต์ในเครื่องลงใน GitHub</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"WNGJ1BzcZ9T8Ukuby0oz"} -->
+<h3 class="wp-block-heading WNGJ1BzcZ9T8Ukuby0oz">การจัดการพื้นที่เก็บข้อมูลระยะไกล</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"className":"oA5VVB6ox_tcRDmhLQpK prc-Heading-Heading-MtWFE"} -->
+<h2 class="wp-block-heading oA5VVB6ox_tcRDmhLQpK prc-Heading-Heading-MtWFE">มีอะไรใหม่ที่ GitHub?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a class="ZWGL7UVn6oM7ll1K6RMY prc-Link-Link-9ZwDx" href="https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/">Project HydraFusion: คุณภาพชายแดนผ่านการเรียบเรียงหลายรุ่นในการประเมินแบบออฟไลน์ที่มีการควบคุม เวิร์กโฟลว์การเข้ารหัสแบบเลือกสรรของ HydraFusion ตรงหรือเกินกว่าพื้นฐาน Opus 5 ที่ประเมินไว้ ในขณะเดียวกันก็ลดต้นทุนโดยประมาณด้วยพนักงาน GitHub4 กันยายน 2569</a><a class="ZWGL7UVn6oM7ll1K6RMY prc-Link-Link-9ZwDx" href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/">แอป GitHub Copilot สําหรับผู้เริ่มต้น: เรียกใช้ตัวแทนหลายรายพร้อมกันเรียนรู้วิธีเรียกใช้เอเจนต์แบบขนานในแอป GitHub Copilot และสัมผัสประสบการณ์ทันทีที่รู้สึกน่ากลัวและเริ่มรู้สึกมีพลังเคย์ล่า อบเชย3 กันยายน 2026</a><a class="ZWGL7UVn6oM7ll1K6RMY prc-Link-Link-9ZwDx" href="https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/">ถอดรหัสศัพท์แสง AI ใหม่: ลูป สายรัด ทีม ปีนเขา... โอ้!ตั้งแต่วิศวกรรมแบบวนซ้ําไปจนถึงสายรัด ทีม และน้ําหนักเปิด GitHub Podcast จะแจกแจงคําศัพท์ AI ที่ปรากฏในการสนทนาของนักพัฒนาแคสซิดี้ วิลเลียมส์2 กันยายน 2026</a><a class="ZWGL7UVn6oM7ll1K6RMY prc-Link-Link-9ZwDx" href="https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/">วิธีที่เราทําให้การเขียนโค้ด AI มีประสิทธิภาพด้านต้นทุนมากขึ้นโดยไม่กระทบต่อคุณภาพของงานเหตุใดเอาต์พุตที่สั้นกว่าจึงมีราคาสูงกว่า และวิธีที่ GitHub Copilot ลดการทํางานที่สูญเปล่าในงานเขียนโค้ดที่สมบูรณ์เอริค คริสเตนเซ่น, นาปาลิส คลิเซียส2 กันยายน 2026</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"g_U9N9nmWwpmfIcqEmsQ prc-Heading-Heading-MtWFE"} -->
+<h2 class="wp-block-heading g_U9N9nmWwpmfIcqEmsQ prc-Heading-Heading-MtWFE">ยังต้องการความช่วยเหลืออยู่ใช่ไหม?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ไม่ต้องกังวล เราจัดการคุณแล้ว</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="HxUDqzUJsch4PwITgXM5 prc-Link-Link-9ZwDx" href="https://docs.github.com/">เอกสาร GitHubสํารวจเอกสาร GitHub อย่างเป็นทางการของเรา</a><a class="HxUDqzUJsch4PwITgXM5 prc-Link-Link-9ZwDx" href="https://github.com/orgs/community/discussions/">ชุมชน GitHubถามคําถาม สลับเรื่องราว แบ่งปันความคิด</a><a class="HxUDqzUJsch4PwITgXM5 prc-Link-Link-9ZwDx" href="https://support.github.com/contact">ติดต่อฝ่ายสนับสนุนติดต่อเราเพื่อขอความช่วยเหลือ</a><a class="HxUDqzUJsch4PwITgXM5 prc-Link-Link-9ZwDx" href="https://github.com/enterprise/contact?utm_source=github_support_portal&amp;utm_medium=homepage_cta">ติดต่อฝ่ายขายติดต่อกับทีมขายของเรา</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"sr-only prc-Heading-Heading-MtWFE"} -->
+<h2 class="wp-block-heading sr-only prc-Heading-Heading-MtWFE">การนําทางส่วนท้าย</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"className":"oq2zp5wGGlyPLKXCqsWA prc-Heading-Heading-MtWFE"} -->
+<h3 class="wp-block-heading oq2zp5wGGlyPLKXCqsWA prc-Heading-Heading-MtWFE">ไม่พบสิ่งที่คุณกําลังมองหา?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"className":"dBLrYWn1Ryy6ZvrmSbF1 prc-Heading-Heading-MtWFE"} -->
+<h2 class="wp-block-heading dBLrYWn1Ryy6ZvrmSbF1 prc-Heading-Heading-MtWFE" id="column-one-header">เอกสารประกอบ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"list-style-none"} -->
+<ul class="wp-block-list list-style-none"><!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://docs.github.com/">เอกสาร GitHub</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://docs.github.com/en/apps">นักพัฒนา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://docs.github.com/en/desktop">เดสก์ท็อป GitHub</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://docs.github.com/en/enterprise-server@3.10">เซิร์ฟเวอร์องค์กร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://opensource.guide/">คู่มือโอเพ่นซอร์ส</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources">ทรัพยากรเพิ่มเติม</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"className":"dBLrYWn1Ryy6ZvrmSbF1 prc-Heading-Heading-MtWFE"} -->
+<h2 class="wp-block-heading dBLrYWn1Ryy6ZvrmSbF1 prc-Heading-Heading-MtWFE" id="column-two-header">ชุมชน</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"list-style-none"} -->
+<ul class="wp-block-list list-style-none"><!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://github.com/orgs/community/discussions/">ชุมชน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://github.com/orgs/community/discussions/categories/github-education">การศึกษา</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"className":"dBLrYWn1Ryy6ZvrmSbF1 prc-Heading-Heading-MtWFE"} -->
+<h2 class="wp-block-heading dBLrYWn1Ryy6ZvrmSbF1 prc-Heading-Heading-MtWFE" id="column-three-header">ข่าว</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"list-style-none"} -->
+<ul class="wp-block-list list-style-none"><!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://github.blog/">บล็อก GitHub</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://github.blog/changelog/">บันทึกการเปลี่ยนแปลง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://www.githubstatus.com/">สถานะ</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"className":"dBLrYWn1Ryy6ZvrmSbF1 prc-Heading-Heading-MtWFE"} -->
+<h2 class="wp-block-heading dBLrYWn1Ryy6ZvrmSbF1 prc-Heading-Heading-MtWFE" id="column-four-header">บริษัท</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"list-style-none"} -->
+<ul class="wp-block-list list-style-none"><!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://github.com/about">เกี่ยวกับ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://github.blog/">บล็อก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://github.com/about/careers">อาชีพ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://github.com/about/press">กด</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://github.com/about/diversity">รวม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://socialimpact.github.com/">ผลกระทบทางสังคม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="fgColor-muted prc-Link-Link-9ZwDx" href="https://www.thegithubshop.com/">ร้านค้า</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph {"className":"sJv_OKOrfpk6hhIHgm54"} -->
+<p class="sJv_OKOrfpk6hhIHgm54">©&nbsp;2026&nbsp;กิตฮับ อิงค์<a class="gcjL1Caja3B_dBg8TrI0 prc-Link-Link-9ZwDx" href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">เงื่อนไข</a><a class="gcjL1Caja3B_dBg8TrI0 prc-Link-Link-9ZwDx" href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">ความเป็นส่วนตัว</a><a class="gcjL1Caja3B_dBg8TrI0 prc-Link-Link-9ZwDx" href="https://docs.github.com/en/support/contacting-github-support">การติดต่อฝ่ายสนับสนุน</a><a class="BNNrLhVtppFNrF_Y3DV4 prc-Link-Link-9ZwDx" href="https://support.github.com/#">จัดการคุกกี้</a></p>
+<!-- /wp:paragraph -->
+
 
       อาวุธปืนมีทะเบียนจึงไมใชทรัพยที่มีไวเป็นความผิด ศาลชั ้นตนพิพากษาวา จําเลยมีความผิดปรับ 6,000 บาท ริบของกลาง พิพากษาแกเป็นวา ใหคืนอาวุธปืนของกลางแกจําเลย ศาลฎีกาวินิจฉัยว วา สมควรริบอาวุธปืนของกลางหรือไม เห็นวา คดีนี ้ศาลชั ้นตนลงโทษป ของกลาง ศาลอุทธรณภาค 9 พิพากษาแกเฉพาะใหคืนอาวุธปืนของกล เป็นการพิพากษาแกไขเล็กนอย ตองหามมิใหคูความฎีกาในปัญหาขอเท วินิจฉัย คําพิพากษาศาลฎีกาที่ 6566/2562 าวุธปืนของกลางเป็นอาวุธปืนมีทะเบียนจึงไมใชทรัพยที่มีไวเป็นความ ใหตองริบเสียทั ้งสิ ้นตาม ป . อ . มาตรา 32 แตเป็นทรัพยซึ่งจําเลยไดใชห ระทําความผิดซึ่งศาลมีอํานาจใชดุลพินิจที่จะสั่งใหริบหรือไมริบก็ไดตา ศาลชั ้นตนลงโทษปรับจําเลยสถานเดียว และริบอาวุธปืนของกลาง ศาล พิพากษาแกเฉพาะใหคืนอาวุธปืนของกลางแกจําเลยเทานั ้น จึงเป็นการ นอย ตองหามมิใหคูความฎีกาในปัญหาขอเท็จจริง ตาม ป . วิ . อ . มาตรา
 โจทกฟองขอใหลงโทษจําเลยตามพระราชบัญญัติอาวุธปืน เครื่องกระส ดอกไมเพลิง และสิ่งเทียมอาวุธปืน พ . ศ .2490 มาตรา 4, 8 ทวิ , 72 ทวิ ป มาตรา 33, 91, 371, 376 ริบของกลาง จําเลยใหการรับสารภาพ ศาลชั ้นตนพิพากษาวา จําเลยมีความผิดตามพระราชบัญญัติอาวุธปืน เ ระเบิด ดอกไมเพลิง และสิ่งเทียมอาวุธปืน พ . ศ .2490 มาตรา 8 ทวิ วรรค วรรคสอง ), 72 ทวิ วรรคสอง ประมวลกฎหมายอาญา มาตรา 371, 376 เป็นความผิดหลายกรรมตางกัน ใหลงโทษทุกกรรมเป็นกระทงความผิด กฎหมายอาญา มาตรา 91 ฐานพาอาวุธปืนติดตัวไปในเมือง หมูบาน หรือ ไมมีเหตุสมควรและโดยไมไดรับใบอนุญาต ( ที่ถูก และฐานพาอาวุธปืน ใหมีขึ ้นเพื่อการรื่นเริง ) เป็นการกระทํากรรมเดียวเป็นความผิดตอกฎหม ลงโทษตามพระราชบัญญัติอาวุธปืนฯ ซึ่งเป็นกฎหมายบทที่มีโทษหนักท กฎหมายอาญา มาตรา 90 ปรับ 4,000 บาท ฐานยิงปืนโดยใชเหตุ ปรับ 6,000 บาท จําเลยใหการรับสารภาพ เป็นประโยชนแกการพิจารณา มโทษใหกระทงละกึ่งหนึ่งตามประมวลกฎหมายอาญา มาตรา 78 ปรับ 3, ปรับใหจัดการตามประมวลกฎหมายอาญา มาตรา 29, 90 ( ที่ถูก มาตรา จําเลยอุทธรณขอไมใหริบอาวุธปืนของกลาง ศาลอุทธรณภาค 9 พิพากษาแกเป็นวา ใหคืนอาวุธปืนของกลางแกจําเล เป็นไปตามคําพิพากษาศาลชั ้นตน โจทกฎีกา ศาลฎีกาวินิจฉัยวา ปัญหาที่ตองวินิจฉัยตามฎีกาของโจทกมีเพียงประก อาวุธปืนของกลางหรือไม เห็นวา คดีนี ้ศาลชั ้นตนลงโทษปรับจําเลยสถ บาท และริบอาวุธปืนของกลาง ศาลอุทธรณภาค 9 พิพากษาแกเฉพาะใ กลางแกจําเลยเทานั ้น จึงเป็นการพิพากษาแกไขเล็กนอย ตองหามมิให ขอเท็จจริง ตามประมวลกฎหมายวิธีพิจารณาความอาญา มาตรา 218 ว ของกลางเป็นอาวุธปืนมีทะเบียนจึงไมใชทรัพยที่มีไวเป็นความผิดที่กฎ ริบเสียทั ้งสิ ้นตามประมวลกฎหมายอาญา มาตรา 32 แตเป็นทรัพยซึ่งจํา ใชในการกระทําความผิดซึ่งศาลมีอํานาจใชดุลพินิจที่จะสั่งใหริบหรือไ กฎหมายอาญา มาตรา 33 (1) โจทกฎีกาขอใหริบอาวุธปืนของกลางจึง ดุลพินิจในการมีคําสั่งชี ้ขาดของศาลอุทธรณภาค 9 อันเป็นฎีกาในปัญห มิใหฎีกาตามบทบัญญัติดังกลาวขางตน แมศาลชั ้นตนสั่งรับฎีกาของโจ ศาลฎีกาไมรับวินิจฉัย พิพากษายกฎีกาโจทก
