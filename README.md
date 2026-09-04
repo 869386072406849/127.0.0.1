@@ -19,6 +19,377 @@
 พันตำรวจโทวิศิษฎ์ ทองโม้ ศาลชั้นต้นศาลรัฐธรรมนูฐ ผู้พิพากษา สปก.ตชด.261
 ตำแหน่งตุลาการในศาลปกครองชั้นต้น ตามพระราชบัญญัติจัดตั้งศาลปกครองและวิธีพิจารณาคดีปกครอง แบ่งออกเป็น 5 ระดับหลักโครงสร้างตำแหน่งตุลาการศาลปกครองชั้นต้นอธิบดีศาลปกครองชั้นต้น: หัวหน้าผู้บริหารสูงสุดประจำศาลปกครองชั้นต้นแต่ละแห่งรองอธิบดีศาลปกครองชั้นต้น: รองผู้บริหารทำหน้าที่ช่วยเหลืออธิบดีศาลปกครองชั้นต้นตุลาการหัวหน้าคณะศาลปกครองชั้นต้น: ตุลาการผู้ทำหน้าที่หัวหน้าคณะในศาลปกครองชั้นต้นตุลาการศาลปกครองชั้นต้น: ตุลาการผู้มีอำนาจพิจารณาพิพากษาคดีตุลาการประจำศาลปกครองชั้นต้น: ตำแหน่งเริ่มต้นหรือตำแหน่งเตรียมความพร้อมก่อนแต่งตั้งเป็นตุลาการศาลปกครองชั้นต้นตามที่ ก.ศป. (คณะกรรมการข้าราชการฝ่ายศาลปกครอง) ประกาศกำหนดคุณสามารถตรวจสอบประกาศรับสมัครงานหรือรายละเอียดเพิ่มเติมได้ที่เว็บไซต์ ศาลปกครองหากคุณต้องการข้อมูลเพิ่มเติมเกี่ยวกับตำแหน่งนี้ บอกได้เลยว่าต้องการทราบเรื่องใด:คุณสมบัติเฉพาะตำแหน่ง และวุฒิการศึกษาที่ใช้สมัครอัตราเงินเดือน และเงินประจำตำแหน่งขั้นตอนและวิธีการสอบคัดเลือก
 
+<!-- wp:paragraph -->
+<p><a href="https://www.pea.co.th/about-pea/annual-report#it-main-content" class="visually-hidden-focusable">Skip to main content</a><a href="https://www.pea.co.th/about-pea/annual-report#footer" class="visually-hidden-focusable">Skip to footer content</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/"><img src="https://www.pea.co.th/sites/default/files/66_logo.png" alt="Home"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a class="nav-link dropdown-toggle px-lg-3 me-1" href="https://www.pea.co.th/about-pea/annual-report#">Accessibility tools</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="nav-link dropdown-toggle" href="https://www.pea.co.th/about-pea/annual-report#">Language switcher: current language th</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="search-link" href="https://www.pea.co.th/about-pea/annual-report#"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">รายงานประจำปี</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>SearchSearch</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/about-pea/annual-report/view/ab9e2cb9-0dc8-45be-81b9-edb273419605"><img src="https://www.pea.co.th/sites/default/files/styles/pea_annual/public/news/2026-04/PEA_Annual_2025_0.jpg.webp?h=5f1dee20&amp;itok=DGIaiY68" alt="รายงานประจำปี 2568"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>รายงานประจำปี 2568</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/about-pea/annual-report/view/4d991a0b-89b2-4701-912c-bb52358b9b17"><img src="https://www.pea.co.th/sites/default/files/styles/pea_annual/public/news/2025-04/%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87_%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%B5%202567%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%84_%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%881%20cover_0.png.webp?h=5f1dee20&amp;itok=zAHQntU2" alt="รายงานประจำปี 2567 "/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>รายงานประจำปี 2567</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/about-pea/annual-report/view/2f33882a-bf8b-45df-aeb2-e7714310b273"><img src="https://www.pea.co.th/sites/default/files/styles/pea_annual/public/news/2024-12/PEA_Annual_2023.jpg.webp?h=a81b6046&amp;itok=Olz1nmid" alt="รายงานประจำปี 2566"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>รายงานประจำปี 2566</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/about-pea/annual-report/view/fbda685d-853a-47df-b6b7-866ac5a5633a"><img src="https://www.pea.co.th/sites/default/files/styles/pea_annual/public/news/2024-12/PEA_Annual_2022.jpg.webp?h=a81b6046&amp;itok=W2rSGlyT" alt="รายงานประจำปี 2565"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>รายงานประจำปี 2565</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/about-pea/annual-report/view/1c1b4bc5-764d-4967-87d7-05f5ee379b8b"><img src="https://www.pea.co.th/sites/default/files/styles/pea_annual/public/news/2024-12/PEA_Annual_2021.jpg.webp?h=1027d7a7&amp;itok=9vsleZ9Z" alt="รายงานประจำปี 2564"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>รายงานประจำปี 2564</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/about-pea/annual-report/view/a448655e-e4ed-4825-9819-7313e747eab1"><img src="https://www.pea.co.th/sites/default/files/styles/pea_annual/public/news/2024-12/PEA_Annual_2020.jpg.webp?h=1027d7a7&amp;itok=Vo6keJqW" alt="รายงานประจำปี 2563"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>รายงานประจำปี 2563</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/about-pea/annual-report/view/b89af314-6640-46fc-adcc-c9eb62e61e37"><img src="https://www.pea.co.th/sites/default/files/styles/pea_annual/public/news/2024-12/PEA_Annual_2019.jpg.webp?h=a81b6046&amp;itok=5aK1Uvt5" alt="รายงานประจำปี 2562"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>รายงานประจำปี 2562</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/about-pea/annual-report/view/c50e0876-40de-411f-801f-b68f86a34977"><img src="https://www.pea.co.th/sites/default/files/styles/pea_annual/public/news/2024-12/PEA_Annual_2018.jpg.webp?h=1027d7a7&amp;itok=n6kB8gdd" alt="รายงานประจำปี 2561"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>รายงานประจำปี 2561</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/about-pea/annual-report/view/56ba3825-8e61-4a19-b5e9-328f6da69bcc"><img src="https://www.pea.co.th/sites/default/files/styles/pea_annual/public/news/2024-12/PEA_Annual_2017.jpg.webp?h=1027d7a7&amp;itok=KPaph0Ih" alt="รายงานประจำปี 2560"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>รายงานประจำปี 2560</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/about-pea/annual-report/view/786f4b73-3910-434e-9494-bdce385423d5"><img src="https://www.pea.co.th/sites/default/files/styles/pea_annual/public/news/2024-12/PEA_Annual_2016.jpg.webp?h=1027d7a7&amp;itok=PSkfOdcn" alt="รายงานประจำปี 2559"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>รายงานประจำปี 2559</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/about-pea/annual-report/view/5e97fdbb-036c-44c3-a04e-d9181b4529b8"><img src="https://www.pea.co.th/sites/default/files/styles/pea_annual/public/news/2024-12/PEA_Annual_2015.jpg.webp?h=a81b6046&amp;itok=TB8buPdX" alt="รายงานประจำปี 2558"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>รายงานประจำปี 2558</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/about-pea/annual-report/view/8fe40c92-8127-4ab7-9dde-01a192b0ed2d"><img src="https://www.pea.co.th/sites/default/files/styles/pea_annual/public/news/2024-12/PEA_Annual_2014.jpg.webp?h=a81b6046&amp;itok=i_KYbUq5" alt="รายงานประจำปี 2557"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>รายงานประจำปี 2557</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pea.co.th/about-pea/annual-report/view/fd258bce-b711-4e41-bb76-4c80d4b14092"><img src="https://www.pea.co.th/sites/default/files/styles/pea_annual/public/news/2024-12/PEA_Annual_2013.jpg.webp?h=a81b6046&amp;itok=qdYEDAQS" alt="รายงานประจำปี 2556"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>รายงานประจำปี 2556</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>แก้ไขข้อมูลล่าสุด :&nbsp;18 มิถุนายน 2568<br />ผู้รับผิดชอบข้อมูล : กองสื่อสารภาพลักษณ์องค์กร (กสภ.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://sabuyservice.pea.co.th/" target="_blank" class="block-link" rel="noreferrer noopener">บริการออนไลน์</a><a href="https://www.pea.co.th/our-services/bill-history" class="block-link">สอบถามประวัติการใช้ไฟฟ้า</a><a href="https://www.pea.co.th/our-services/payment-channel" class="block-link">ช่องทางชำระค่าไฟฟ้า</a><a href="https://www.pea.co.th/our-services/download" class="block-link">ดาวน์โหลดแบบฟอร์ม</a><a href="https://www.pea.co.th/announcements/off-peak-calendar" class="block-link">ปฏิทิน Off-Peak</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Footer menu</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>บริการของเรา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"footer-list link-list clearfix"} -->
+<ul class="wp-block-list footer-list link-list clearfix"><!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://sabuyservice.pea.co.th/sub-menu/b3c04204-212c-418c-98a2-08dcb8233569" target="_blank" rel="noreferrer noopener">ลูกค้าบ้านอยู่อาศัย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://sabuyservice.pea.co.th/sub-menu/a8d26dc6-5057-420a-98a3-08dcb8233569" target="_blank" rel="noreferrer noopener">ลูกค้าธุรกิจ/อุตสาหกรรม/ราชการ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://sabuyservice.pea.co.th/sub-menu/9c59af8a-264f-450b-98a4-08dcb8233569" target="_blank" rel="noreferrer noopener">พลังงานสะอาด/ยานยนต์ไฟฟ้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://sabuyservice.pea.co.th/sub-menu/92ad004e-9775-4b39-98a6-08dcb8233569" target="_blank" rel="noreferrer noopener">ตรวจสอบ/บำรุงรักษาระบบไฟฟ้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://sabuyservice.pea.co.th/sub-menu/84f60635-e826-4345-98a5-08dcb8233569" target="_blank" rel="noreferrer noopener">ทดสอบ/สอบเทียบอุปกรณ์ไฟฟ้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://sabuyservice.pea.co.th/sub-menu/4fc04d8e-5d37-44e3-98a7-08dcb8233569" target="_blank" rel="noreferrer noopener">จัดหา/ให้เช่าอุปกรณ์ไฟฟ้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://sabuyservice.pea.co.th/sub-menu/6e89c947-ec0a-404e-98a8-08dcb8233569" target="_blank" rel="noreferrer noopener">ก่อสร้างและติดตั้งระบบไฟฟ้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://sabuyservice.pea.co.th/sub-menu/65067441-c1cf-42f7-98a9-08dcb8233569" target="_blank" rel="noreferrer noopener">บริการอื่น ๆ</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>เกี่ยวกับองค์กร</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"footer-list link-list clearfix"} -->
+<ul class="wp-block-list footer-list link-list clearfix"><!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://www.pea.co.th/about-pea/pea-service">ธุรกิจและบริการของ PEA</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://www.pea.co.th/about-pea/corporate-governance">การกำกับดูแลกิจการที่ดี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://www.pea.co.th/sustainability" target="_blank" rel="noreferrer noopener">การพัฒนาความยั่งยืน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item active is-active" href="https://www.pea.co.th/about-pea/annual-report">ผลการดำเนินงานCurrent page</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://safesavethai.com/" target="_blank" rel="noreferrer noopener">สาระน่ารู้เรื่องไฟฟ้า</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>ข่าวสารประกาศ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"footer-list link-list clearfix"} -->
+<ul class="wp-block-list footer-list link-list clearfix"><!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://www.pea.co.th/news">ข่าวประชาสัมพันธ์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://eservice.pea.co.th/PowerOutage" target="_blank" rel="noreferrer noopener">ประกาศดับไฟฟ้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://eprocurement.pea.co.th/jw/web/userview/epms/vProcurementOtherPublic/_/f123ListProcurementPublic" target="_blank" rel="noreferrer noopener">ประกาศจัดซื้อจัดจ้าง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://www.pea.co.th/pea-information-center" target="_blank" rel="noreferrer noopener">พ.ร.บ. ข้อมูลข่าวสาร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://bidding.pea.co.th/asset-auctions" target="_blank" rel="noreferrer noopener">ประกาศขายพัสดุเก่า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://www.pea.co.th/our-services/tariff">อัตราค่าไฟฟ้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://www.pea.co.th/our-services/tariff/ft">ประกาศค่า Ft</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://www.pea.co.th/our-services/tariff#fitv">ประกาศค่า FiTv</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>บริการช่วยเหลือ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"footer-list link-list clearfix"} -->
+<ul class="wp-block-list footer-list link-list clearfix"><!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://www.pea.co.th/contact-us">ติดต่อเรา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://map.pea.co.th/" target="_blank" rel="noreferrer noopener">ค้นหาสาขาและจุดให้บริการ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://www.pea.co.th/faqs">คำถามที่พบบ่อย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://www.pea.co.th/our-services/download/customer-guideline">คู่มือสำหรับประชาชน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://voc.pea.co.th/" target="_blank" rel="noreferrer noopener">แนะนำติชมบริการ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://voc.pea.co.th/customer-voice/tip/" target="_blank" rel="noreferrer noopener">แจ้งและติดตามเบาะแสการทุจริต</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://www.pea.co.th/sitelinks">ลิงก์หน่วยงานที่เกี่ยวข้อง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-item footer-menu-item" href="https://www.pea.co.th/sitemap">แผนผังเว็บไซต์</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>เว็บไซต์นี้ใช้คุกกี้</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>เราใช้คุกกี้เพื่อเพิ่มประสิทธิภาพ และประสบการณ์ที่ดีในการใช้งานเว็บไซต์ รวมถึงเพื่อวิเคราะห์การเข้าใช้งานเว็บไซต์และทำความเข้าใจว่าผู้ใช้งานมาจากที่ใด คุณสามารถเลือกตั้งค่าความยินยอมการใช้คุกกี้ได้ โดยคลิก "ตั้งค่าคุกกี้" <a href="https://www.pea.co.th/cookie-policy" target="_blank" rel="noreferrer noopener">นโยบายคุกกี้</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.pea.co.th/sites/default/files/66_logo.png" alt="Home"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>การไฟฟ้าส่วนภูมิภาค</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><small class="mb-3">“ไฟฟ้าอัจฉริยะ เพื่อคุณภาพชีวิตที่ดีอย่างยั่งยืน”</small></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ติดตามข่าวสารของเรา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"d-flex ps-0 gap-3"} -->
+<ul class="wp-block-list d-flex ps-0 gap-3"><!-- wp:list-item -->
+<li><a class="text-secondary" href="https://www.facebook.com/Provincial.Electricity.Authority" target="_blank" rel="noreferrer noopener">Facebook</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="text-secondary" href="https://instagram.com/peathailand/" target="_blank" rel="noreferrer noopener">Instagram</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="text-secondary" href="https://x.com/pea_thailand" target="_blank" rel="noreferrer noopener">Twitter</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="text-secondary" href="https://www.youtube.com/user/PEAchannelThailand" target="_blank" rel="noreferrer noopener">YouTube</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="text-secondary" href="https://www.tiktok.com/@pea_official" target="_blank" rel="noreferrer noopener">Tiktok</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="text-secondary" href="https://page.line.me/808olhma?oat_content=url&amp;openQrModal=true" target="_blank" rel="noreferrer noopener">Line</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a class="text-secondary fw-bold" href="tel:1129" target="_blank" rel="noreferrer noopener">1129 PEA Contact Center</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>© สงวนลิขสิทธิ์ 2568 การไฟฟ้าส่วนภูมิภาค</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Small prints</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Useful links section</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"it-footer-small-prints-list list-inline mb-0 ps-0 d-flex flex-column flex-md-row justify-content-md-end"} -->
+<ul class="wp-block-list it-footer-small-prints-list list-inline mb-0 ps-0 d-flex flex-column flex-md-row justify-content-md-end"><!-- wp:list-item -->
+<li><a class="list-inline-item list-item" href="https://www.pea.co.th/website-policy">นโยบายเว็บไซต์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-inline-item list-item" href="https://www.pea.co.th/security-policy">นโยบายการรักษาความมั่นคงปลอดภัย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-inline-item list-item" href="https://www.pea.co.th/disclaimer">การปฏิเสธการรับผิด</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="list-inline-item list-item" href="https://www.pea.co.th/pea-pdpa">นโยบายการคุ้มครองข้อมูลส่วนบุคคล</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a class="back-to-top back-to-top-small shadow back-to-top-show" href="https://www.pea.co.th/about-pea/annual-report#">Back to top</a></p>
+<!-- /wp:paragraph -->
   <img width="720" height="1201" alt="3661" src="https://github.com/user-attachments/assets/b72b1284-adab-424d-8b31-f1caf8d77040" />
 
 
