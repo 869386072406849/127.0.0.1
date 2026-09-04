@@ -432,3 +432,22 @@
 <!-- wp:paragraph -->
 <p>Documentation built with&nbsp;<a href="https://www.mkdocs.org/">MkDocs</a>.</p>
 <!-- /wp:paragraph -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://github.com/ColinRobbins/ha-hildebrandglow-dcc">https://github.com/ColinRobbins/ha-hildebrandglow-dcc</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://github.com/ColinRobbins/ha-hildebrandglow-dcc">https://github.com/alryaz/hass-mosenergosbyt</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://github.com/lawrencefoley/evergy">https://github.com/lawrencefoley/evergy</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://github.com/trvqhuy/nestup_evn">https://github.com/trvqhuy/nestup_evn</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://github.com/u9n/dlms-cosem">https://github.com/u9n/dlms-cosem</a></p>
+<!-- /wp:paragraph -->
