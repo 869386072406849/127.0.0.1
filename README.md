@@ -1,3 +1,7 @@
+# https://directory.truehits.net/shownewsdetail.php?id=31057
+# https://directory.truehits.net/shownewsdetail.php?id=1476
+# https://www.lightningmaps.org/
+
 # https://www.lightningmaps.org/
 <img width="719" height="301" alt="10537" src="https://github.com/user-attachments/assets/eeef9720-a29f-4d02-8a28-4b8c06a7cbd7" />
 
